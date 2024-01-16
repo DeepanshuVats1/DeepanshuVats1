@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepanshu Vats
-- 👀 I’m interested in Tech and Invoations
-- 🌱 I’m currently learning New Languages
+- 👀 I’m interested in Tech 
+- 🌱 I’m currently learning New Programming Languages
 - 💞️ I’m looking to work on My Dream Projects
 
 <!---
