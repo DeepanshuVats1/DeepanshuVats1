@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deepanshu Vats
-- 👀 I’m interested in Tech 
-- 🌱 I’m currently learning New Programming Languages
-- 💞️ I’m looking to work on My Dream Projects
+- 👀 I’m interested in development
+- 🌱 I’m currently learning full stack development
 
 <!---
 DeepanshuVats1/DeepanshuVats1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
